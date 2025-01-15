@@ -13,13 +13,10 @@ Shadowbound is a captivating text-based adventure game set in the mystical kingd
 1. [Game Concept](#game-concept)
 2. [Design](#design)
 3. [Technical Requirements](#technical-requirements)
-4. [Code Overview](#code-overview)
-5. [Use Cases](#use-cases)
-6. [Challenges Faced](#challenges-faced)
-7. [Learning Objectives Achieved](#learning-objectives-achieved)
-8. [Conclusion](#conclusion)
-9. [Acknowledgments](#acknowledgments)
-10. [References](#references)
+4. [Use Cases](#use-cases)
+5. [Challenges Faced](#challenges-faced)
+6. [Learning Objectives Achieved](#learning-objectives-achieved)
+7. [Conclusion](#conclusion)
 
 ---
 
